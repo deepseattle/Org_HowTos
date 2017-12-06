@@ -21,7 +21,7 @@ their responsibilities and become regular participants, passing to torch to next
 ## Current Leadership
 
 Founders (Benevolent Dictators for Life): Ben Bastian & Adam Cox
-Organizers: Ben Bastian, Adam Cox, Don Alvarez
+Organizers: Ben Bastian, Adam Cox, Don Alvarez (Speaker Czar)
 Project Leads: Rebecca Holiday, Adam Cox, Jaime Espinosa, Adnan Siddqui
 In the works: Guarav Avora, Abhishek Patnia
 
