@@ -23,11 +23,11 @@ Project Leads: Rebecca Holiday, Adam Cox, Jaime Espinosa, Adnan Siddqui
 In the works: Guarav Avora, Abhishek Patnia
 
 
-## Responibilies
+## Responsibilities
 
 * BDFL: Final Say
-* Organizers: Secure meetup locations, foster new projects, find speakers (project updates or mini "tech talks")
-* Project Leads: manager their project
+* Organizers: Secure meetup locations, foster new projects, find speakers (project updates or mini "tech talks"), archive talks
+* Project Leads: manage their project
 * Projects in the works: explore viability of project
 * Participants: have fun and do good work
 
