@@ -10,6 +10,9 @@ their responsibilities and become regular participants, passing to torch to next
 
 * Founders
   * Organizers
+      * General Organizer
+      * Speaker Czar
+      * Github Admin
     * Project Leads
       * Projects in the works potential leads
         * Participants
@@ -26,7 +29,7 @@ In the works: Guarav Avora, Abhishek Patnia
 ## Responsibilities
 
 * BDFL: Final Say
-* Organizers: Secure meetup locations, foster new projects, find speakers (project updates or mini "tech talks"), archive talks
+* Organizers: Secure meetup locations, foster new projects, find speakers (project updates or mini "tech talks"), archive presentations, manage Meetup announcements, manage Slack, manage github repositories.
 * Project Leads: manage their project
 * Projects in the works: explore viability of project
 * Participants: have fun and do good work
@@ -38,7 +41,7 @@ We aim to flow participants up the chain all the way to 'Organizer' and then let
 return to general participants. 
 
 For example, the current set of Project Leaders are invited to become Organizers once their
-projects are completed. 
+projects are completed. Participants are encouraged to start their own projects and become project leads.
 
 Although, this is by no means a hard and fast rule. We'll take organizational help from those that haven't been
 project leads. And, of course, 'Organizers' can simultaneously be participants in projects. 
