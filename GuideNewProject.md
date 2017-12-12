@@ -1,7 +1,7 @@
 # Guide New Project
 
 These HowTo notes are for Organizers in the Seattle Deep Learning Meetup. They 
-are to help you help new projects form and get started. 
+are to help you form new projects, listing out all the steps that will help it be successful.  
 
 1. Get project idea from members.
   * Organizers need to vet the idea to ensure high quality projects.
