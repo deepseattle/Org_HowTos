@@ -5,8 +5,8 @@ are to help you form new projects, listing out all the steps that will help it b
 
 1. Get project idea from members.
     * Organizers need to vet the idea to ensure high quality projects.
-2. Identify project lead.
 3. Add project to the ‘in the works’ section of "projects" repository if that project needs to explore the idea more and find members if leader is unsure to start.
+2. Identify project lead after discussions and members coalesce into committed group.
 4. Project lead needs to create project markdown file and issue pull request to add file to "projects" repository. 
     * the markdown file should include
     * outline of project in as much detail as necessary
